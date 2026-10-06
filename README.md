@@ -1,4 +1,4 @@
-#Gdg_Task-1
+
 # L-System Fractal Architect
 
 ## Overview
